@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Urigo/angular-embedly.git"
+    "url": "https://github.com/emotivhq/angular-embedly.git"
   },
   "author": "MoranF",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/Urigo/angular-embedly/issues"
+    "url": "https://github.com/emotivhq/angular-embedly/issues"
   },
   "devDependencies": {
     "karma": "~0.12.16",
